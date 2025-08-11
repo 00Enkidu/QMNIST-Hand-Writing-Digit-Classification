@@ -127,8 +127,4 @@ Epoch 10/10
 
 ---
 > **All model code, logs, and result plots are based on the original notebook and project files.  
-> For any questions or suggestions, please open an issue.**
-
----
-
-Let me know if you need further adjustments or additional details!
+> For any questions or suggestions, please open an issue.
